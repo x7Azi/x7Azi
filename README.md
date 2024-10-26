@@ -1,4 +1,6 @@
-## Hi there 👋
+## ITS AZI ✨
+
+Welcome to chat with me ^^
 
 <!--
 **x7Azi/x7Azi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
