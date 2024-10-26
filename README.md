@@ -2,6 +2,7 @@
 
 Welcome to chat with me ^^
 
+🎮️Gaming：DBD / GENSHIN IMPACT
 <!--
 **x7Azi/x7Azi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
