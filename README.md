@@ -1,8 +1,9 @@
-## ITS AZI ✨
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9F81FF&width=435&lines=Hiyo%2CI'm+Azi%E2%9C%A8)](https://git.io/typing-svg)
 
 Welcome to chat with me ^^
 
 🎮️Gaming：DBD / GENSHIN IMPACT
+
 <!--
 **x7Azi/x7Azi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
